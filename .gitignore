@@ -1,0 +1,8 @@
+*.o
+build/
+
+# vim
+*.swp
+
+# vs code
+*.vscode/
